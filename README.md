@@ -1,5 +1,9 @@
 # FinanceExpenseReport
 
+This report will help to categories our transactions with specific grouping like 'Expense', 'Investment', 'Retriement', 'Bills', 'Loans', 'Returns', 'EmergencyFund'... Also, uncategorised transaction with group separately and it will come to our notice for further check. 
+
+e.g., If bank charged any amount under SUR-CHARGES, GST like that then it will export in output file with full transaction description in seperate row and come to our notice.
+
 Prerequisite:
 1. Basic Python Code Setup- refer https://youtu.be/iQPbnTteGs4
 2. Install yfinance package- refer https://youtu.be/zyiKntx7r6c
