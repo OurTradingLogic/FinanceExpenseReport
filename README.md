@@ -1,4 +1,4 @@
-# FinanceExpenseReport
+# Finance Expense Report
 
 This report will help to categories our transactions with specific grouping like 'Expense', 'Investment', 'Retriement', 'Bills', 'Loans', 'Returns', 'EmergencyFund'... Also, uncategorised transaction with group separately and it will come to our notice for further check. 
 
